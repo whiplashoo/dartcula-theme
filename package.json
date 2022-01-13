@@ -1,0 +1,21 @@
+{
+    "name": "dartcula-theme",
+    "displayName": "Dartcula Theme",
+    "description": "A Darcula theme, with complete syntax highlighting for Dart and Flutter. Inspired by Intellij IDEA's default theme.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dartcula Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dartcula Theme-color-theme.json"
+            }
+        ]
+    }
+}
