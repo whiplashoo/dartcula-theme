@@ -2,9 +2,28 @@
     "name": "dartcula-theme",
     "displayName": "Dartcula Theme",
     "description": "A Darcula theme, with complete syntax highlighting for Dart and Flutter. Inspired by Intellij IDEA's default theme.",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "icon": "theme-icon.png",
     "engines": {
         "vscode": "^1.63.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/whiplashoo/dartcula-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/whiplashoo/dartcula-theme/issues"
+    },
+    "keywords": [
+        "dart",
+        "flutter",
+        "darcula",
+        "jetbrains",
+        "intellij"
+    ],
+    "galleryBanner": {
+        "color": "#292B2E",
+        "theme": "dark"
     },
     "categories": [
         "Themes"
