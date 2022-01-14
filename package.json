@@ -1,6 +1,11 @@
 {
     "name": "dartcula-theme",
     "displayName": "Dartcula Theme",
+    "publisher": "minas-giannekas",
+    "author": {
+        "name": "Minas Giannekas",
+        "url": "https://whidev.com"
+    },
     "description": "A Darcula theme, with complete syntax highlighting for Dart and Flutter. Inspired by Intellij IDEA's default theme.",
     "version": "1.0.0",
     "icon": "theme-icon.png",
