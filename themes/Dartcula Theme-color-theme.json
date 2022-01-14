@@ -138,6 +138,7 @@
 				"storage.modifier.dart",
 				"constant.character.escape.dart",
 				"keyword.control",
+				"keyword.other.import.dart",
 				"keyword.operator.expression",
 				"keyword.operator.logical.js",
 				"punctuation.terminator.statement.js",
