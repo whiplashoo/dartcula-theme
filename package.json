@@ -36,9 +36,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Dartcula Theme",
+                "label": "Dartcula Theme - Basic",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Dartcula Theme-color-theme.json"
+                "path": "./themes/Dartcula Theme Basic.json"
+            },
+            {
+                "label": "Dartcula Theme - Pure",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dartcula Theme Pure.json"
             }
         ]
     }
