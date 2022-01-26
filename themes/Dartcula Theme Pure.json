@@ -297,7 +297,7 @@
 			"scope": [
 				"string.interpolated.single.dart",
 				"string.interpolated.double.dart",
-				"string.dart",
+				"string.dart"
 			],
 			"settings": {
 				"foreground": "#629755"
