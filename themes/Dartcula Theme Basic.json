@@ -166,7 +166,7 @@
         "editor.selectionHighlightBackground": "#add6ff26",
         "editorIndentGuide.background": "#414141",
         "list.dropBackground": "#383b3d",
-        "sideBar.background": "#1e1e1f",
+        "sideBar.background": "#1e1e1f"
     },
     "tokenColors": [
         {
@@ -851,6 +851,6 @@
             "settings": {
                 "foreground": "#6D9CBE"
             }
-        },
+        }
     ]
 }
