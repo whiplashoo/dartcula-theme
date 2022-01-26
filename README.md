@@ -26,29 +26,46 @@ I decided to create this VS Code theme, for two reasons:
 - I love IntelliJ IDEs default Darcula theme, but prefer to use VS Code.
 - I needed semantic highlighting for Dart/Flutter files.
 
-So, this is simply an attempt to **replicate the Darcula theme from Jetbrains IDEs, and at the same time support nice syntax highlighting for Dart and Flutter**. There is also syntax highlighting support for HTML, CSS, JS, and Java files:
+So, this is simply an attempt to **replicate the Darcula theme from Jetbrains IDEs, and at the same time support nice syntax highlighting for Dart and Flutter**. 
 
-
+There is also syntax highlighting support for **HTML, CSS, JS, and Java** files.
 
 ## Theme versions
-This theme includes a Basic and a Pure version. They both have the exact same syntax highlighting properties. The Pure version goes ones step further and **additionally replicates the color scheme of IntelliJ editors' interface**, e.g. the color of the sidebar, the terminal, the tabs, and so on.
+This theme includes a Basic and a Pure version. They both have the exact same syntax highlighting properties. 
+
+The Pure version **additionally replicates the color scheme of IntelliJ editors' interface**, e.g. the color of the sidebar, the terminal, the tabs, and so on:
+
+### Basic theme
+<img src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.dart.basic.png" alt="Dartcula Theme Dart"/>
+
+### Pure theme
+<img src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.dart.pure.png" alt="Dartcula Theme Dart"/>
 
 ## Screenshots
 
 ### Dart
-![Dart](https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.dart.png)
+<img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.dart.basic.png" alt="Dartcula Theme Dart"/>
+<img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.dart.pure.png" alt="Dartcula Theme Dart"/>
 
 ### Flutter 
-![Flutter](https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.flutter.png)
+<img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.flutter.basic.png" alt="Dartcula Theme Flutter"/>
+<img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.flutter.pure.png" alt="Dartcula Theme Flutter"/>
 
 ### JavaScript
-![JavaScript](https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.js.png)
+<img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.js.basic.png" alt="Dartcula Theme JavaScript"/>
+<img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.js.pure.png" alt="Dartcula Theme JavaScript"/>
 
 ### HTML
-![HTML](https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.html.png)
+<img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.html.basic.png" alt="Dartcula Theme HTML"/>
+<img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.html.pure.png" alt="Dartcula Theme HTML"/>
 
 ### CSS
-![CSS](https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.css.png)
+<img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.css.basic.png" alt="Dartcula Theme CSS"/>
+<img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.css.pure.png" alt="Dartcula Theme CSS"/>
+
+### Java
+<img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.java.basic.png" alt="Dartcula Theme Java"/>
+<img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.java.pure.png" alt="Dartcula Theme Java"/>
 
 ## Contributing
 This is a work in progress, so feel free to open an issue and provide your feedback/suggestions!
