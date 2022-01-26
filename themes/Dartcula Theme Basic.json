@@ -211,6 +211,7 @@
             "scope": [
                 "source.dart",
                 "source.js",
+                "source.java",
                 "entity.name.function.dart",
                 "keyword.operator",
                 "punctuation.dot.dart",
@@ -228,10 +229,20 @@
                 "keyword.other.template",
                 "keyword.other.substitution",
                 "entity.name.function",
-                "meta.block variable.other"
+                "meta.block variable.other",
+                "storage.modifier.import.java"
             ],
             "settings": {
                 "foreground": "#a9b7c6"
+            }
+        },
+        {
+            "scope": [
+                "comment.block.javadoc.java",
+            ],
+            "settings": {
+                "foreground": "#629755",
+                "fontStyle": "italic"
             }
         },
         {
@@ -247,7 +258,6 @@
         {
             "scope": [
                 "comment",
-                "punctuation.definition.comment"
             ],
             "settings": {
                 "fontStyle": "italic",

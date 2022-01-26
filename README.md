@@ -18,7 +18,7 @@
     <img alt="VS Code Marketplace Installs" src="https://img.shields.io/visual-studio-marketplace/v/minas-giannekas.dartcula-theme"></a>
 </p>
 
-Inspired by Intellij IDEA's default theme.
+Inspired by IntelliJ IDEA's default theme.
 
 ## Why?
 I decided to create this VS Code theme, for two reasons:
@@ -26,7 +26,12 @@ I decided to create this VS Code theme, for two reasons:
 - I love IntelliJ IDEs default Darcula theme, but prefer to use VS Code.
 - I needed semantic highlighting for Dart/Flutter files.
 
-So, this is simply an attempt to **replicate the Darcula theme from Jetbrains IDEs, and at the same time support nice syntax highlighting for Dart and Flutter**. There is also syntax highlighting support for HTML, CSS, JS files.
+So, this is simply an attempt to **replicate the Darcula theme from Jetbrains IDEs, and at the same time support nice syntax highlighting for Dart and Flutter**. There is also syntax highlighting support for HTML, CSS, JS, and Java files:
+
+
+
+## Theme versions
+This theme includes a Basic and a Pure version. They both have the exact same syntax highlighting properties. The Pure version goes ones step further and **additionally replicates the color scheme of IntelliJ editors' interface**, e.g. the color of the sidebar, the terminal, the tabs, and so on.
 
 ## Screenshots
 
