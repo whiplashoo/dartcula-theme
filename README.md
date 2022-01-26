@@ -44,28 +44,40 @@ The Pure version **additionally replicates the color scheme of IntelliJ editors'
 ## Screenshots
 
 ### Dart
+<p>
 <img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.dart.basic.png" alt="Dartcula Theme Dart"/>
 <img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.dart.pure.png" alt="Dartcula Theme Dart"/>
+</p>
 
 ### Flutter 
+<p>
 <img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.flutter.basic.png" alt="Dartcula Theme Flutter"/>
 <img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.flutter.pure.png" alt="Dartcula Theme Flutter"/>
+</p>
 
 ### JavaScript
+<p>
 <img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.js.basic.png" alt="Dartcula Theme JavaScript"/>
 <img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.js.pure.png" alt="Dartcula Theme JavaScript"/>
+</p>
 
 ### HTML
+<p>
 <img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.html.basic.png" alt="Dartcula Theme HTML"/>
 <img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.html.pure.png" alt="Dartcula Theme HTML"/>
+</p>
 
 ### CSS
+<p>
 <img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.css.basic.png" alt="Dartcula Theme CSS"/>
 <img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.css.pure.png" alt="Dartcula Theme CSS"/>
+</p>
 
 ### Java
+<p>
 <img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.java.basic.png" alt="Dartcula Theme Java"/>
 <img width="45%" src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.java.pure.png" alt="Dartcula Theme Java"/>
+</p>
 
 ## Contributing
 This is a work in progress, so feel free to open an issue and provide your feedback/suggestions!
