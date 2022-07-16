@@ -1,7 +1,4 @@
 {
-    "name": "Dartcula Theme - Pure",
-    "type": "dark",
-    "semanticHighlighting": true,
     "$schema": "vscode://schemas/color-theme",
     "colors": {
         "editor.background": "#2f2e2e",
@@ -13,14 +10,16 @@
         "list.dropBackground": "#383b3d",
         "sideBar.background": "#1e1e1f"
     },
+    "name": "Dartcula Theme - Pure",
+    "semanticHighlighting": true,
     "semanticTokenColors": {
-        "*:java": {
-            "fontStyle": "",
-            "foreground": "#a9b7c6"
-        },
         "*.constructor.declaration:java": "#ffc66d",
         "*.documentation": {
             "fontStyle": "italic"
+        },
+        "*:java": {
+            "fontStyle": "",
+            "foreground": "#a9b7c6"
         },
         "annotation": {
             "foreground": "#ffc66d"
@@ -57,12 +56,18 @@
         "function": {
             "foreground": "#a9b7c6"
         },
-        "function.declaration": {
+        "function.declaration:dart": {
             "foreground": "#ffc66d"
         },
         "function.declaration:java": {
             "fontStyle": "",
             "foreground": "#ffc66d"
+        },
+        "function.declaration:javascript": {
+            "foreground": "#ffc66d"
+        },
+        "function.declaration:python": {
+            "foreground": "#a9b7c6"
         },
         "function.static": {
             "foreground": "#ffc66d"
@@ -74,7 +79,6 @@
             "fontStyle": "",
             "foreground": "#cc7832"
         },
-        "keyword:java": "#cc7832",
         "keyword.control": {
             "fontStyle": "",
             "foreground": "#cc7832"
@@ -83,6 +87,7 @@
             "fontStyle": "italic bold underline",
             "foreground": "#629755"
         },
+        "keyword:java": "#cc7832",
         "method": {
             "foreground": "#a9b7c6"
         },
@@ -92,12 +97,12 @@
         "method.declaration": {
             "foreground": "#ffc66d"
         },
-        "method.declaration:java": {
-            "fontStyle": "",
-            "foreground": "#ffc66d"
-        },
         "method.declaration.static": {
             "fontStyle": "italic",
+            "foreground": "#ffc66d"
+        },
+        "method.declaration:java": {
+            "fontStyle": "",
             "foreground": "#ffc66d"
         },
         "method.static": {
@@ -121,17 +126,26 @@
         "property": {
             "foreground": "#9876aa"
         },
-        "property:java": "#9876aa",
         "property.annotation": {
-            "fontStyle": "",
             "foreground": "#a9b7c6"
         },
         "property.declaration": {
-            "fontStyle": "",
-            "foreground": "#9876aa"
+            "foreground": "#a9b7c6"
         },
         "property.declaration.static": {
             "fontStyle": "italic",
+            "foreground": "#9876aa"
+        },
+        "property.declaration:dart": {
+            "fontStyle": "",
+            "foreground": "#9876aa"
+        },
+        "property.declaration:java": {
+            "fontStyle": "",
+            "foreground": "#9876aa"
+        },
+        "property.declaration:javascript": {
+            "fontStyle": "",
             "foreground": "#9876aa"
         },
         "property.static": {
@@ -141,6 +155,7 @@
         "property.static:java": {
             "fontStyle": "italic"
         },
+        "property:java": "#9876aa",
         "source.interpolation": {
             "foreground": "#a9b7c6"
         },
@@ -200,7 +215,9 @@
                 "punctuation.definition.tag.end.html",
                 "source.js.embedded.html",
                 "source.js constant.other.object.key.js string.unquoted.label.js",
-                "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+                "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json",
+                "punctuation.separator.element.python",
+                "constant.character.format.placeholder.other.python"
             ],
             "settings": {
                 "fontStyle": "",
@@ -230,7 +247,13 @@
                 "keyword.other.substitution",
                 "entity.name.function",
                 "meta.block variable.other",
-                "storage.modifier.import.java"
+                "storage.modifier.import.java",
+                "entity.name.function.python",
+                "punctuation.definition.arguments.begin.python",
+                "punctuation.definition.arguments.end.python",
+                "variable.parameter.function-call.python",
+                "support.variable.magic.python",
+                "meta.member.access.python"
             ],
             "settings": {
                 "foreground": "#a9b7c6"
@@ -238,11 +261,11 @@
         },
         {
             "scope": [
-                "comment.block.javadoc.java",
+                "comment.block.javadoc.java"
             ],
             "settings": {
-                "foreground": "#629755",
-                "fontStyle": "italic"
+                "fontStyle": "italic",
+                "foreground": "#629755"
             }
         },
         {
@@ -257,7 +280,7 @@
         },
         {
             "scope": [
-                "comment",
+                "comment"
             ],
             "settings": {
                 "fontStyle": "italic",
@@ -285,7 +308,9 @@
                 "variable.function",
                 "support.function",
                 "keyword.other.special-method",
-                "punctuation.separator.key-value.html"
+                "entity.name.function.decorator.python",
+                "punctuation.separator.key-value.html",
+                "entity.name.function.js"
             ],
             "settings": {
                 "foreground": "#ffc66d"
@@ -325,7 +350,8 @@
                 "markup.inserted.git_gutter",
                 "punctuation.definition.string.begin.js",
                 "punctuation.definition.string.end.js",
-                "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+                "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js",
+                "storage.type.string.python"
             ],
             "settings": {
                 "foreground": "#6a8759"
@@ -863,5 +889,6 @@
                 "foreground": "#6d9cbe"
             }
         }
-    ]
+    ],
+    "type": "dark"
 }
