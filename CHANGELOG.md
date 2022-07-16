@@ -2,6 +2,10 @@
 
 All notable changes to the "dartcula-theme" extension will be documented in this file.
 
+## [1.2.0] 2022-07-16
+
+- Added syntax support for Python.
+
 ## [1.1.1] 2022-01-26
 
 - Two themes are now available: a Basic and a Pure version. The Pure version additionally replicates the IntelliJ editors' interface color scheme.

@@ -7,7 +7,7 @@
         "url": "https://whidev.com"
     },
     "description": "A Darcula theme, with complete syntax highlighting for Dart and Flutter. Inspired by Intellij IDEA's default theme.",
-    "version": "1.1.1",
+    "version": "1.2.0",
     "icon": "theme-icon.png",
     "engines": {
         "vscode": "^1.63.0"

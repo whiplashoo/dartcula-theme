@@ -58,8 +58,11 @@ The Pure version **additionally replicates the color scheme of IntelliJ editors'
 ### CSS
 <img src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.css.basic.png" alt="Dartcula Theme CSS"/>
 
+### Python
+<img src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.python.pure.png" alt="Dartcula Theme Python"/>
+
 ### Java
-<img src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.java.pure.png" alt="Dartcula Theme Java"/>
+<img src="https://raw.githubusercontent.com/whiplashoo/dartcula-theme/main/public/img/dartcula.java.basic.png" alt="Dartcula Theme Java"/>
 
 ## Contributing
 This is a work in progress, so feel free to open an issue and provide your feedback/suggestions!
