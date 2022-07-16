@@ -253,7 +253,9 @@
                 "punctuation.definition.arguments.end.python",
                 "variable.parameter.function-call.python",
                 "support.variable.magic.python",
-                "meta.member.access.python"
+                "meta.member.access.python",
+                "meta.indexed-name.python",
+                "meta.function.parameters.python"
             ],
             "settings": {
                 "foreground": "#a9b7c6"
