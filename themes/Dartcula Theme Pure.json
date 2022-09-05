@@ -200,20 +200,20 @@
 		"property.declaration": {
 			"foreground": "#a9b7c6"
 		},
+		"property.declaration.instance:dart": {
+			"foreground": "#9876aa"
+		},
 		"property.declaration.static": {
 			"fontStyle": "italic",
 			"foreground": "#9876aa"
 		},
 		"property.declaration:dart": {
-			"fontStyle": "",
-			"foreground": "#9876aa"
+			"foreground": "#a9b7c6"
 		},
 		"property.declaration:java": {
-			"fontStyle": "",
 			"foreground": "#9876aa"
 		},
 		"property.declaration:javascript": {
-			"fontStyle": "",
 			"foreground": "#9876aa"
 		},
 		"property.static": {
