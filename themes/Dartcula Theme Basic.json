@@ -18,7 +18,6 @@
             "fontStyle": "italic"
         },
         "*:java": {
-            "fontStyle": "",
             "foreground": "#a9b7c6"
         },
         "annotation": {
@@ -26,7 +25,6 @@
         },
         "annotation:java": "#bbb529",
         "boolean": {
-            "fontStyle": "",
             "foreground": "#cc7832"
         },
         "class": {
@@ -43,7 +41,6 @@
             "foreground": "#629755"
         },
         "enum": {
-            "fontStyle": "",
             "foreground": "#a9b7c6"
         },
         "enumMember": {
@@ -60,7 +57,6 @@
             "foreground": "#ffc66d"
         },
         "function.declaration:java": {
-            "fontStyle": "",
             "foreground": "#ffc66d"
         },
         "function.declaration:javascript": {
@@ -76,11 +72,9 @@
             "fontStyle": "italic"
         },
         "keyword": {
-            "fontStyle": "",
             "foreground": "#cc7832"
         },
         "keyword.control": {
-            "fontStyle": "",
             "foreground": "#cc7832"
         },
         "keyword.documentation:java": {
@@ -102,7 +96,6 @@
             "foreground": "#ffc66d"
         },
         "method.declaration:java": {
-            "fontStyle": "",
             "foreground": "#ffc66d"
         },
         "method.static": {
@@ -166,7 +159,6 @@
             "foreground": "#cc7832"
         },
         "type": {
-            "fontStyle": "",
             "foreground": "#cc7832"
         },
         "typeParameter": {
@@ -180,7 +172,6 @@
             "foreground": "#6897bb"
         },
         "variable.local": {
-            "fontStyle": "",
             "foreground": "#9876aa"
         }
     },
@@ -220,7 +211,6 @@
                 "constant.character.format.placeholder.other.python"
             ],
             "settings": {
-                "fontStyle": "",
                 "foreground": "#cc7832"
             }
         },
@@ -693,7 +683,6 @@
                 "source.editorconfig keyword.operator"
             ],
             "settings": {
-                "fontStyle": "",
                 "foreground": "#a9b7c6"
             }
         },
@@ -784,7 +773,6 @@
                 "keyword.other.default"
             ],
             "settings": {
-                "fontStyle": "",
                 "foreground": "#cc7832"
             }
         },
@@ -820,7 +808,6 @@
                 "support.type.vendored.property-name"
             ],
             "settings": {
-                "fontStyle": "",
                 "foreground": "#bababa"
             }
         },
